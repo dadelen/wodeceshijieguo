@@ -1,0 +1,20 @@
+{
+    "name": "sensors",
+    "version": "1.0.0",
+    "description": "PH2.0传感器",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "EMRGBLight.ts",
+		"_locales/zh/sensors-strings.json"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+
+}
